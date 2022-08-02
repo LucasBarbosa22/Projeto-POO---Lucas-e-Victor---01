@@ -1,0 +1,8 @@
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\bin\Debug\Projeto01.exe.config
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\bin\Debug\Projeto01.exe
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\bin\Debug\Projeto01.pdb
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\obj\Debug\Projeto01.exe
+C:\Users\2jdmtec\Desktop\Projeto POO - Lucas e Victor\Projeto01\Projeto01\obj\Debug\Projeto01.pdb
